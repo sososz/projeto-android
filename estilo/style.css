@@ -75,7 +75,7 @@ nav {
 }
 
 nav>a {
-    font-family: --fonte-padrao;
+    font-family: var(--fonte-padrao);
     margin-right: 30px;
     color: var(--cor1);
     text-decoration: none;
